@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+#line3,
+#line4,
+#line5 {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+
+#line3 img {
+  width: 30%;
+
+  margin: 1.6%;
+}
+
+#line4 img {
+  width: 21.5%;
+
+  margin: 1.6%;
+}
+
+#line5 img {
+  width: 16.5%;
+
+  margin: 1.6%;
+}
